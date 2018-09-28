@@ -1,0 +1,2 @@
+Novo ficheiro de texto com a funcionalidade de testar as novas habilidades adquiridas
+na aula de Engenharia de Software
